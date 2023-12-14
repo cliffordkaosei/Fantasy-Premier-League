@@ -3,7 +3,7 @@
 Welcome to my FPL project! The aim is go end to end from data collection to predicting player points per gameweek.
 This readme will be updated as I progress along
 
-## Objectives
+# Objectives
 - Collect historical FPL player data, as far as data is available
 - Populate into a clean dataframe, fit for purpose for predictive modelling
 - Train and test model
