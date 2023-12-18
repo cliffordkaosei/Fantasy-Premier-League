@@ -3,9 +3,9 @@
 The datasets within this folder all share common variables and are split by season year.
 Below you will find each abbreviation explained
 
-- Name: Player name
+- Player name: Name
 - Team: Player club
-- Pos: Player position
+- Position: Player position
 - Pts: Total FPL points for season
 - Gs: Total Goals Scored
 - A: Total Assists
