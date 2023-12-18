@@ -1,4 +1,4 @@
-# Fantasy-Premier-League :soccer:
+# Fantasy-Premier-League Predictive Analysis :soccer:
 
 Welcome to my FPL project! The aim is go end to end from data collection to predicting the players to have the most points this season.
 This readme will be updated as I progress along
