@@ -9,4 +9,4 @@ This readme will be updated as I progress along
 - Train and test model
 - Output results
 
-I am open to ideas/improvements, feel free to reach out to me in LinkedIn - Clifford Osei
+I am open to ideas/improvements
