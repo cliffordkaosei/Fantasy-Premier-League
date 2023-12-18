@@ -8,5 +8,3 @@ This readme will be updated as I progress along
 - Populate into a clean dataframe, fit for purpose for predictive modelling
 - Train and test model
 - Output results
-
-I am open to ideas/improvements
