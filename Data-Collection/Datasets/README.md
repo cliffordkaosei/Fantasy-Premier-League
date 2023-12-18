@@ -1,4 +1,21 @@
-# Datasets :bar_chart:
+## Datasets :bar_chart:
 
 The datasets within this folder all share common variables and are split by season year.
 Below you will find each abbreviation explained
+
+- Name: Player name
+- Team: Player club
+- Pos: Player position
+- Pts: Total FPL points for season
+- Gs: Total Goals Scored
+- A: Total Assists
+- CS: Total Clean sheets
+- B: Total Bonus Points
+- BPS: Total System Bonus Points
+- MP: Total Minutes Played
+- Cost: FPL cost
+- TSB: % of FPL Team selection
+- GC: Total Goals Conceeded
+- OG: Total Own Goals
+- PS: Total Penalties Saved
+- PM: Total Penalties Missed
