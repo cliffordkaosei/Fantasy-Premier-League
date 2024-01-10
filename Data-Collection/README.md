@@ -1,7 +1,9 @@
 ## Datasets :bar_chart:
 
-The datasets within this folder all share common variables and are split by season year.
-Below you will find each abbreviation explained
+The datasets within this folder have been split into training and test data. Test data only includes data from the current season (23/24).
+Within training data sub-folder is the historical dataset which includes all seasons. 
+
+Below you will find each variable and its abbreviation explained:
 
 - Player name: Name
 - Team: Player club
