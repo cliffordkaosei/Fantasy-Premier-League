@@ -1,6 +1,6 @@
 ## Datasets :bar_chart:
 
-The datasets within this folder have been split into training and test data. Test data only includes data from the current season (23/24).
+The datasets within this folder have been split into training and test data. Test data only includes data from 16/17 up to the current 23/24 season.
 Within training data sub-folder is the historical dataset which includes all seasons. 
 
 Below you will find each variable and its abbreviation explained:
@@ -21,5 +21,6 @@ Below you will find each variable and its abbreviation explained:
 - OG: Total Own Goals
 - PS: Total Penalties Saved
 - PM: Total Penalties Missed
+- Season: The start year of the season
 
 [Data source](https://www.fantasynutmeg.com/history)
