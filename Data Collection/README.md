@@ -21,5 +21,6 @@ Below you will find each variable and its abbreviation explained:
 - OG: Total Own Goals
 - PS: Total Penalties Saved
 - PM: Total Penalties Missed
+- Season: The start year of the season
 
 [Data source](https://www.fantasynutmeg.com/history)
