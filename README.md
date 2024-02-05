@@ -9,4 +9,7 @@ Welcome to my FPL project! The aim is go end to end from data collection to pred
 - Output results
 
 ## Guide
-- 
+- To update the raw data first run data-scrapper under the Data Collection folder
+- To combine all the collected data then run the raw_data notebook under the same folder
+- For data cleaning and prep run the EDA notebook under the Data modelling folder
+- Finally for predciton analysis run predicion_analysis under the same foler
